@@ -600,11 +600,20 @@ video {
   border-width: 1px;
 }
 
+.p-4 {
+  padding: 1rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
 .italic {
   font-style: italic;
 }
 
-.text-red-500 {
+.text-primary {
   --tw-text-opacity: 1;
-  color: rgb(239 68 68 / var(--tw-text-opacity, 1));
+  color: rgb(39 49 198 / var(--tw-text-opacity, 1));
 }
